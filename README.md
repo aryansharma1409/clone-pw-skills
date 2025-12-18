@@ -78,7 +78,7 @@ Open <b><u>index.html</u></b> in any modern browser.
 
 ## 👤 <b><u>AUTHOR</u></b>
 
-<b><u>Harish</u></b> <b><u>Frontend Developer</u></b>
+<b><u>Aryan</u></b> <b><u>Frontend Developer</u></b>
 
 * GitHub: *https://github.com/aryansharma1409*
 
