@@ -80,7 +80,7 @@ Open <b><u>index.html</u></b> in any modern browser.
 
 <b><u>Harish</u></b> <b><u>Frontend Developer</u></b>
 
-* GitHub: *your-github-profile-link*
+* GitHub: *https://github.com/aryansharma1409*
 
 ---
 
