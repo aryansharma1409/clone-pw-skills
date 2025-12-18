@@ -1,94 +1,92 @@
-<div align="center">
-PW Skills
-Responsive Landing Page
 
-A modern, responsive landing page built using HTML5 and Tailwind CSS, focused on clean UI, scalability, and real-world frontend practices.
+<div align="center">
+
+# <u>PW SKILLS</u>
+
+## <b><u>Responsive Landing Page</u></b>
+
+<b>A modern, responsive landing page built using <u>HTML5</u> and <u>Tailwind CSS</u>, focused on clean UI, scalability, and real-world frontend practices.</b>
 
 </div>
-🔥 Overview
 
-This project demonstrates the implementation of a professional landing page layout with responsive navigation, optimized UI components, and a utility-first CSS approach.
-Designed to be simple, fast, and production-ready.
+---
 
-💡 Features
+## 🔥 <b><u>PROJECT OVERVIEW</u></b>
 
-📱 Fully responsive layout (Mobile / Tablet / Desktop)
+This repository showcases a <b><u>professionally structured landing page</u></b> designed with a <b><u>mobile-first approach</u></b>.
+The project highlights strong knowledge of <b><u>frontend fundamentals</u></b>, <b><u>responsive UI design</u></b>, and <b><u>utility-first CSS</u></b>.
 
-🧭 Clean navigation bar with mobile hamburger menu
+---
 
-🎨 Modern UI using Tailwind CSS
+## 💡 <b><u>KEY FEATURES</u></b>
 
-⚡ Lightweight & fast-loading
+* 📱 <b><u>Fully Responsive Layout</u></b> (Mobile, Tablet & Desktop)
+* 🧭 <b><u>Clean Navigation Bar</u></b> with hamburger menu
+* 🎨 <b><u>Modern UI Design</u></b> using Tailwind CSS
+* ⚡ <b><u>Fast & Lightweight</u></b> (CDN-based setup)
+* 🧩 <b><u>Well-Structured Code</u></b>
 
-🧩 Well-structured HTML code
+---
 
-🛠️ Built With
+## 🛠️ <b><u>TECHNOLOGY STACK</u></b>
 
-HTML5 – Semantic markup
+* <b><u>HTML5</u></b> — Semantic & accessible markup
+* <b><u>Tailwind CSS</u></b> — Utility-first styling framework
+* <b><u>Responsive Web Design</u></b> — Mobile-first implementation
 
-Tailwind CSS – Utility-first styling
+---
 
-Responsive Design – Mobile-first approach
+## 📁 <b><u>PROJECT STRUCTURE</u></b>
 
-📁 Project Structure
-PW-Skills/
+```bash
+PW-SKILLS/
 ├── index.html
 └── README.md
+```
 
-🚀 Getting Started
+---
+
+## 🚀 <b><u>GETTING STARTED</u></b>
+
+Clone the repository:
+
+```bash
 git clone https://github.com/your-username/pw-skills.git
+```
 
+Open <b><u>index.html</u></b> in any modern browser.
 
-Open index.html in any modern browser.
+---
 
-🎯 Purpose
+## 🎯 <b><u>PROJECT OBJECTIVE</u></b>
 
-Practice Tailwind CSS in real layouts
+* Strengthen <b><u>Tailwind CSS</u></b> skills
+* Build <b><u>real-world UI layouts</u></b>
+* Improve <b><u>frontend architecture</u></b>
+* Create a <b><u>portfolio-ready project</u></b>
 
-Improve frontend UI/UX skills
+---
 
-Build portfolio-ready projects
+## 🔮 <b><u>FUTURE ENHANCEMENTS</u></b>
 
-Apply industry-style structuring
+* JavaScript-based interactions
+* Accessibility improvements (<b><u>ARIA</u></b> & <b><u>SEO</u></b>)
+* Additional sections (Courses, Testimonials, Contact)
+* Live deployment
 
-🔮 Roadmap
+---
 
-Add JavaScript interactions
+## 👤 <b><u>AUTHOR</u></b>
 
-Improve accessibility (ARIA, SEO)
+<b><u>Harish</u></b> <b><u>Frontend Developer</u></b>
 
-Add reusable components
+* GitHub: *your-github-profile-link*
 
-Deploy live version
+---
 
-👤 Author
+## ⚠️ <b><u>DISCLAIMER</u></b>
 
-Harish
-Frontend Developer
+This project is created strictly for <b><u>educational and portfolio purposes</u></b>.
+All logos, images, and brand names belong to their respective owners.
 
-GitHub: your-profile-link
-
-⚠️ Disclaimer
-
-This project is for educational and portfolio use only.
-All brand assets belong to their respective owners.
-
-💎 Why this looks better on GitHub
-
-Centered hero section
-
-Minimal text, strong spacing
-
-Icons for visual hierarchy
-
-Clean headings & sections
-
-If you want, I can now:
-
-Make it FAANG-style clean
-
-Add badges + preview image
-
-Customize it for resume shortlisting
-
-Rewrite it for a company portfolio
+---
