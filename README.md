@@ -1,35 +1,35 @@
-PW Skills Landing Page
+**PW Skills – Responsive Landing Page**
 
-A responsive and modern landing page inspired by PW Skills, built using HTML and Tailwind CSS. This project focuses on clean UI design, responsiveness, and practical frontend development practices.
+A clean, modern, and fully responsive landing page inspired by PW Skills, developed using HTML5 and Tailwind CSS. This project demonstrates strong fundamentals in frontend development, responsive UI design, and utility-first CSS architecture.
 
-🚀 Features
+✨ Key Highlights
 
-Fully responsive navigation bar
+Responsive navigation bar with mobile-first design
 
-Mobile-friendly hamburger menu
+Clean and professional UI using Tailwind CSS
 
-Clean and minimal UI using Tailwind CSS
+Optimized layout for desktop, tablet, and mobile screens
 
-Optimized layout for all screen sizes
+Structured HTML with reusable utility classes
 
-Professional landing page structure
+Fast load time using CDN-based Tailwind setup
 
-🛠️ Tech Stack
+🧰 Technology Stack
 
-HTML5
+HTML5 – Semantic and accessible markup
 
-Tailwind CSS (CDN)
+Tailwind CSS – Utility-first CSS framework
 
-Responsive Web Design
+Responsive Web Design – Mobile, tablet & desktop friendly
 
-📸 Preview
+📌 Project Overview
 
-The project includes:
+This project focuses on building a real-world landing page layout while maintaining:
 
-Header with logo and navigation
+Design consistency
 
-Hero section with branding image
+Code readability
 
-Content image section
+Scalability for future features
 
-Footer with copyright information
+It is ideal for showcasing frontend fundamentals and UI design skills in a professional portfolio.
